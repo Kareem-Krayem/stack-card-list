@@ -2,7 +2,7 @@
 
 This is a DEMO
 
-![Alt text](./Demo.jpg?raw=true 'STACK-CARD-LIST')
+![Alt text](./Demo.png?raw=true 'STACK-CARD-LIST')
 
-> > This is an example using HTML and CSS only
-> > for a stacked card list.
+> This is an example using HTML and CSS only
+> for a stacked card list.
